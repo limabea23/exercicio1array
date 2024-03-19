@@ -1,0 +1,4 @@
+determinar a frase;
+separar a frase por letras;
+depois de separada, vai filtrar apenas as vogais;
+exibir os textos (resultados).
